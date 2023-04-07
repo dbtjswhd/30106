@@ -13,7 +13,7 @@ public class TestExam {
 				if(a%3==0 && a%7==0) {
 					System.out.println(i);
 					sum++;
-					
+					//ㄴㅇㄴㅇㄴㅇㄴㅇ
 			}
 				
 			}
